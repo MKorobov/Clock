@@ -1,5 +1,5 @@
 #include <QtGui/QApplication>
-#include "widget.h"
+#include "clock.h"
 
 int main(int argc, char *argv[])
 {
